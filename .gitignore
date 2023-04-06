@@ -1,0 +1,55 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncrunch*
+*.vspscc
+*.vssscc
+*.opensdf
+*.sln.docstates
+
+# Compiled files
+bin/
+obj/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Exclude App.config and other configuration files
+App.config
+Web.config
+
+# Logs and other generated files
+*.log
+*.cache
+*.diff
+*.orig
+*.bak
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.scc
+*.tmp
+*.userprefs
+*.pubxml
+*.deployproj
+*.pp
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Build results
+[Bb]uild/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Exclude test files and directories
+[Tt]est*/
+testresults/
